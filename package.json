@@ -1,8 +1,8 @@
 {
   "name": "ray-fetch",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "A NodeJS Fetching utility for ray-userland, makes it easier to work with Ray-Towers. Based on Node-Fetch!",
-  "main": "ray-fetch.js",
+  "main": "ray-fetch.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Ray6464/ray-fetch/issues"
   },
-  "homepage": "https://github.com/Ray6464/ray-fetch#readme"
+  "homepage": "https://github.com/Ray6464/ray-fetch#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "ray-flags": "^0.0.7",
+    "ray-fs": "^2.2.1"
+  }
 }
