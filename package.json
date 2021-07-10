@@ -1,0 +1,24 @@
+{
+  "name": "ray-fetch",
+  "version": "0.0.1",
+  "description": "A NodeJS Fetching utility for ray-userland, makes it easier to work with Ray-Towers. Based on Node-Fetch!",
+  "main": "ray-fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ray6464/ray-fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "ray-userland",
+    "ray-towers"
+  ],
+  "author": "Ray Voice, Anna Voice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ray6464/ray-fetch/issues"
+  },
+  "homepage": "https://github.com/Ray6464/ray-fetch#readme"
+}
